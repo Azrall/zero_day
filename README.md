@@ -1,1 +1,1 @@
-Create and setup your Git and GitHub account
+command uname print when you run it without any option
